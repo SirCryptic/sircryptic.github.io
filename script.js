@@ -77,7 +77,7 @@ function waitAndResponce(inputText) {
             sendTextMessage("<span class='sk'>Send Keyword to get what you want to know about me...<br>e.g<br><span class='bold'>'skills'</span> - to know my skills<br><span class='bold'>'education'</span> - to get my education details<br><span class='bold'>'address'</span> - to get my address<br><span class='bold'>'contact'</span> - to get ways to connect with me<br><span class='bold'>'projects'</span> - to get details of my projects<br><span class='bold'>'clear'</span> - to clear conversation<br><span class='bold'>'about'</span> - to know about this site</span>");
             break;
         case "skills":
-            sendTextMessage("<span class='sk'>I am knowledgable on alot of things i probably shouldnt be.<br><br>I can write code in following languages :<br><span class='bold'>bourne again shell<br>C++<br>C<br>PHP<br>html<br>GSC<br>Python<br>CSS<br>HTML</span><br><br>I've experiance with following frameworks :<span class='bold'><br>Android<br>ReactJs<br>GTK</span><br><br>I use <span class='bold'>Windows 11 with a mix of wsl2</span> as daily driver on my custom built desktop<br>Favourite IDE:VSCode</span>");
+            sendTextMessage("<span class='sk'>I am knowledgable on alot of things i probably shouldnt be.<br><br>I can write code in following languages :<br><span class='bold'>bourne again shell<br>C++<br>C<br>PHP<br>html<br>GSC<br>Python<br>CSS<br>HTML</span><br><br>I've experiance with following frameworks :<span class='bold'><br>Android<br></span><br><br>I use <span class='bold'>Windows 11 with a mix of wsl2</span> as daily driver on my custom built desktop<br>Favourite IDE:VSCode</span>");
             break;
 
         case "education":
